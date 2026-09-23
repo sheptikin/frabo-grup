@@ -1,9 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frabogrup.md/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <loc>https://frabogrup.md/ro/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://frabogrup.md/ro/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://frabogrup.md/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://frabogrup.md/ro/"/>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://frabogrup.md/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://frabogrup.md/ro/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://frabogrup.md/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://frabogrup.md/ro/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://frabogrup.md/ro/uslugi</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://frabogrup.md/ro/uslugi"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://frabogrup.md/ru/uslugi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://frabogrup.md/ro/uslugi"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://frabogrup.md/ru/uslugi</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://frabogrup.md/ro/uslugi"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://frabogrup.md/ru/uslugi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://frabogrup.md/ro/uslugi"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://frabogrup.md/ro/raboty</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://frabogrup.md/ro/raboty"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://frabogrup.md/ru/raboty"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://frabogrup.md/ro/raboty"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://frabogrup.md/ru/raboty</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://frabogrup.md/ro/raboty"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://frabogrup.md/ru/raboty"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://frabogrup.md/ro/raboty"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://frabogrup.md/ro/o-nas</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://frabogrup.md/ro/o-nas"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://frabogrup.md/ru/o-nas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://frabogrup.md/ro/o-nas"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://frabogrup.md/ru/o-nas</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://frabogrup.md/ro/o-nas"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://frabogrup.md/ru/o-nas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://frabogrup.md/ro/o-nas"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://frabogrup.md/ro/contact</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://frabogrup.md/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://frabogrup.md/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://frabogrup.md/ro/contact"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://frabogrup.md/ru/contact</loc>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://frabogrup.md/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://frabogrup.md/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://frabogrup.md/ro/contact"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
