@@ -1,9 +1,13 @@
 ---
 name: grill-me
-description: Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to stress-test a plan, get grilled on their design, or mentions "grill me".
+description: Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to stress-test a plan, get grilled on their design, or mentions "grill me" / "устрой допрос". Also use PROACTIVELY: whenever the user describes a new plan, feature, design, site section, campaign or other non-trivial piece of work before implementation starts, offer to run this skill first.
 ---
 
 Interview the user relentlessly about every aspect of their plan until you reach a shared understanding. Walk down each branch of the design tree, resolving dependencies between decisions one-by-one.
+
+## Proactive offer
+
+When this skill was triggered proactively (the user shared a plan but did not ask to be grilled), do not start the interview right away. First ask via AskUserQuestion whether to stress-test the plan, with options like "Да, устроить допрос" and "Нет, сразу делать". If the user declines, proceed with the task and do not offer again for the same plan.
 
 ## How to ask questions
 
